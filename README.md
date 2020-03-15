@@ -45,3 +45,6 @@ Work with Abbeylord Properties a property company owned and operated by a privat
 ## Hobbies
 Nutrition / Gym
 I push myself to be the best version of myself I can be, I have been using gyms since 2016 and it has since been a huge motivator for me to constantly aim for self improvement. Not only in physicality but mentally and socially as well.
+
+further enhancing coding skills - I am doing this by keeping up my Makers work ethic current goal is to learn a new framework every 2 weeks as well as doing Code challenges to keep my knowledge up to and above standard 
+Problem solving - I love puzzles and any excuse to get my brain going I can dive into a problem and enjoy solving it 
