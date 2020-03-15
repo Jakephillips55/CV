@@ -29,8 +29,6 @@ Makers Academy december2019 - March2020
 - Ruby, Rails, JavaScript, python, django, html/css 
 - RSpec, Jasmine, py.test pytest --spec
 
-#### Your University / College (start_date to end_date)
-
 Educational experience:
 
 Studied in Sixth form for AS and A level 2014-2016 Achieving grades in the following; AS Applied Business Double grade BC, AS English literature grade E and AS general studies E as well as A Level Applied Double grade CC and A level English literature Grade E.
