@@ -31,10 +31,10 @@ Makers Academy december2019 - March2020
 
 Educational experience:
 
-Studied in Sixth form for AS and A level 2014-2016 Achieving grades in the following; AS Applied Business Double grade BC, AS English literature grade E and AS general studies E as well as A Level Applied Double grade CC and A level English literature Grade E.
+Studied in Sixth form for AS and A level 2014-2016 Achieving grades in the following; AS Applied Business Double grade BC, AS English literature AS general studies as well as A Level Applied Double and A level English literature Grade.
 
 Clifton College
-2009-2014 studying GCSE Achieve A, for English Literature and B for English Language, B in religious studies, B business studies, C in math’s, C geography, C’s in my three science courses, D Classical civilizations
+2009-2014 studying GCSE Achieve A, for English Literature and B for English Language, B in religious studies, B business studies math geography in my three science courses, Classical civilizations
 
 ## Experience
 
